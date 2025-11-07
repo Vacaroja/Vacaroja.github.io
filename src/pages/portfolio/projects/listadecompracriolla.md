@@ -32,7 +32,7 @@ Developed with **Kotlin** and styled with **Jetpack Compose**.
 
 ## 🌐 Uploaded
 Download in: 
-👉 ![Descripción de la imagen](public/images/google-play.png)
+👉 ![Descripción de la imagen](/images/google-play.png)
 
 ## 🎯 Objective
 
