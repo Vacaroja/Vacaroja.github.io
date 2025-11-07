@@ -110,6 +110,31 @@ export const languages: Record<string, Language> = {
     name: "Python",
     iconName: "python",
   },
+  kotlin: {
+    name: "Kotlin",
+    iconName: "Kotlin",
+  },
+  jetpackcompose: {
+    name: "jetpack-compose",
+    iconName: "jetpackcompose",
+  },
+  daggerHilt: {
+    name: "dagger-hilt",
+    iconName: "dagger-hilt",
+  },
+  Retrofit: {
+    name: "retrofit",
+    iconName: "retrofit",
+  },
+  room: {
+    name: "room-database",
+    iconName: "room-database",
+  },
+  androidStudio: {
+    name: "android-studio",
+    iconName: "android-studio",
+  },
+  
 };
 
 export const getLanguage = (lang: string): Language => {
