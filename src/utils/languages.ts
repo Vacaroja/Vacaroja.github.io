@@ -115,23 +115,19 @@ export const languages: Record<string, Language> = {
     iconName: "Kotlin",
   },
   jetpackcompose: {
-    name: "jetpack-compose",
+    name: "Jetpack Compose",
     iconName: "jetpackcompose",
   },
-  daggerHilt: {
-    name: "dagger-hilt",
+  daggerhilt: {
+    name: "Dagger Hilt",
     iconName: "dagger-hilt",
   },
-  Retrofit: {
-    name: "retrofit",
-    iconName: "retrofit",
-  },
   room: {
-    name: "room-database",
+    name: "Room",
     iconName: "room-database",
   },
   androidStudio: {
-    name: "android-studio",
+    name: "Android Studio",
     iconName: "android-studio",
   },
   

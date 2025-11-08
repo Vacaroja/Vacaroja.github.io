@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Lista de compra - Dolar criollo'
 pubDate: 2025-11-07
 description: 'Shopping list with Rate converter'
-languages: ["Kotlin", "git", "firebase", "room-database","jetpack-compose","dagger-hilt","retrofit"]
+languages: ["kotlin", "git", "firebase", "room","jetpackcompose"]
 image:
   url: "/images/projects/lcc-icon.png"
   alt: "Thumbnail of Astro arches."
@@ -32,7 +32,9 @@ Developed with **Kotlin** and styled with **Jetpack Compose**.
 
 ## 🌐 Uploaded
 Download in: 
-👉 ![Descripción de la imagen](/images/google-play.png)
+ <a href="https://play.google.com/store/apps/details?id=com.ccc.listadecompracriolla">
+    <img src="/images/google-play.png" alt="Descargar en Play Store" width="200" height="200">
+</a>
 
 ## 🎯 Objective
 
