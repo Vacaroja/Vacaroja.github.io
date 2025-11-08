@@ -5,7 +5,7 @@ pubDate: 2025-11-07
 description: 'Shopping list with Rate converter'
 languages: ["kotlin", "git", "firebase", "room","jetpackcompose"]
 image:
-  url: "/images/projects/lcc-icon.png"
+  url: "/images/projects/Lcc.png"
   alt: "Thumbnail of Astro arches."
 --- 
 
